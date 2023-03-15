@@ -6,4 +6,6 @@ const replaceChar = (str)=>{
     return sttng.map(char => String.fromCharCode(char.charCodeAt(0)+1)).join('')
 }
 
+//kafsgkash
+
 console.log(replaceChar('az'))
